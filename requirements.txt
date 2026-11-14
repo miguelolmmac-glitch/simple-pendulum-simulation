@@ -1,0 +1,3 @@
+pytest
+matplotlib
+#Sys y math son librerias estándar incluidas en Python.
